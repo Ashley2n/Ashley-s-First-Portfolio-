@@ -1,0 +1,37 @@
+
+
+/*Body Paragraphs*/
+#images{
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    width: 500px;
+    margin-left: 100px;
+}
+#Sam{
+    display: flex;
+    margin: 20px;
+}
+#Products{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: start;
+    padding-left: 10px;
+    margin: 20px;
+}
+#Acessibility{
+    display: flex;
+    margin: 20px;
+}
+
+p{
+    width: 200px;
+    color: black;
+}
+
+img{
+    margin: 20px;
+    width: 200px;
+    border-radius: 10px;
+    border: 3px solid black;
+}

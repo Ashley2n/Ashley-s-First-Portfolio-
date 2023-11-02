@@ -1,0 +1,17 @@
+
+/*style.css is used for genral styling*/
+Main{
+    background-image: url(../Images/photo-1614244809803-0d3ac97493a1.avif);
+    background-size: cover;
+    background-position: center;
+    height: 740px;
+    width: auto;
+}
+
+#Main-Body{
+    margin-left: 10%;
+    font-size: 60px;
+    position: absolute;
+    top: 40%;
+}
+

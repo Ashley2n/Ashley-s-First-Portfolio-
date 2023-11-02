@@ -1,0 +1,23 @@
+#body{
+    position: absolute;
+    top: 40%;
+    margin-left: 50px;
+    height: auto;
+    width: 50%;
+}
+
+#Contact-section a{
+    color: #3366CC;
+}
+
+h2{
+    font-size: 50px;
+}
+
+p{
+    font-size: 25px;
+}
+
+#Thanks-section{
+    font-size: 50px;
+}

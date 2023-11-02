@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&family=Tilt+Neon&display=swap');
+*{
+    margin:0;
+    padding: 0;
+    font-family: "Oswald";
+    color:aliceblue
+}
+
+Main{
+    background-image: url(../Images/photo-1614244809803-0d3ac97493a1.avif);
+    background-size: cover;
+    background-position: center;
+    height: 740px;
+    width: auto;
+}
+
+nav{
+    float: right;
+    margin-top: 25px;
+    font-size: 20px;
+}
+
+nav a{
+    text-decoration: none;
+    padding: 5px 10px;
+    border: 1px solid transparent;
+}
+
+nav a:hover{
+    background-color: white;
+    color: black;
+
+}
+
+header{
+    display: inline-block;
+}
+
+#Top-Bar{
+    display: flex;
+    justify-content:space-between; 
+    background-color: black;
+}
+
+#Home-Botton{
+    display: inline-block;
+    margin: 10px;
+    font-size: 30px;
+}
+
+#Home-Botton a{
+    text-decoration: none;
+}
+
