@@ -21,3 +21,24 @@ textarea{
     display: flex;
     flex-direction: column;
 }
+
+input{
+    color: #1B1B1B;
+    text-indent: 5px;
+}
+
+#submit-button{
+    margin-right: 30%;
+    margin-left: 30%;
+}
+
+textarea{
+    color: #1B1B1B;
+    text-indent: 5px;
+}
+
+#video{
+    display: flex;
+    justify-content: center;
+    
+}
